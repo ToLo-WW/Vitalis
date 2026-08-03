@@ -31,6 +31,7 @@ _Nombre del organismo o empresa comitente y contexto del problema que el sistema
 /
 ├── README.md
 ├── integrantes.md
+├── RECURSOS.md         ← leer antes de empezar: prerrequisitos, cheatsheet de git, recursos
 ├── docs/
 │   ├── requisitos.md
 │   ├── historias-de-usuario.md
