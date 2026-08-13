@@ -64,7 +64,6 @@ git push
 - **Editor de PlantUML online, sin instalar nada:** https://www.plantuml.com/plantuml/uml/
 - **PlantUML — sintaxis de diagramas de casos de uso:** https://plantuml.com/use-case-diagram
 - **PlantUML — sintaxis de diagramas entidad-relación:** https://plantuml.com/ie-diagram
-- **Para aprender GIT jugando:** https://learngitbranching.js.org/?locale=es_AR
 
 ---
 
