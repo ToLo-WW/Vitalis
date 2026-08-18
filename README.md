@@ -32,6 +32,8 @@ _Nombre del organismo o empresa comitente y contexto del problema que el sistema
 ├── README.md
 ├── integrantes.md
 ├── RECURSOS.md         ← leer antes de empezar: prerrequisitos, cheatsheet de git, recursos
+├── DoR.md              ← Definition of Ready: checklist del equipo + autoevaluación de 3 HU propias
+├── slicing.md          ← épica de la billetera partida en historias verticales (Partes A y B)
 ├── docs/
 │   ├── requisitos.md
 │   ├── historias-de-usuario.md
